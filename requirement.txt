@@ -1,0 +1,12 @@
+
+### `requirements.txt`
+
+```text
+google-adk[a2a]
+mcp[cli]
+litellm
+uvicorn
+nest_asyncio
+google-genai
+python-dotenv
+requests
